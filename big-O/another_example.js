@@ -5,4 +5,4 @@ function squareAndDouble(arr) {
     return tempArr.map((el) => {
       return 2 * el;
     });
-  }
+}
